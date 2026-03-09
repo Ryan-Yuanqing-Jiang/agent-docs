@@ -52,3 +52,9 @@ Where vertical SaaS products miss:
 Generic softwares are helpful, but built to solve narrowed solutions for everybody. Companies need purposely built intelligent integrations that solve complex business problems holistically.
 
 ---
+<!-- FOOTER_START -->
+
+Ryse Intelligence | AI + Software & Data Consultancy | 2026-03-09
+Contact: 0420560617 | Email: ryanjiang5@gmail.com | Web: getryse.io
+
+<!-- FOOTER_END -->

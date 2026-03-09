@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
+                "file": "design/principles for prints and web.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1_Logistics_AI_Industry_Map"
+              "title": "principles for prints and web"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "30c84fd38ccbc2ce",
   "lastOpenFiles": [
+    "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
+    "design/principles for prints and web.md",
+    "design",
     "outreach_material/logistics/3_Executive_Brief_Trends.md",
     "outreach_material/logistics/The 60-Second Logistics Profitability Audit.md",
-    "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
     "CONTEXT_template.md",
     "outreach_material/logistics",
     "outreach_material",
@@ -210,7 +212,6 @@
     "extract_final.py",
     "chunk.json.txt",
     "debug_parse.py",
-    "parse_gemini_response.py",
     "test.md"
   ]
 }
