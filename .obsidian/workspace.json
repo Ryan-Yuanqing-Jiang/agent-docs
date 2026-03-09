@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/principles for prints and web.md",
+                "file": "outreach_material/logistics/2_Operational_Readiness_Audit.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "principles for prints and web"
+              "title": "2_Operational_Readiness_Audit"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "$$$$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,12 +185,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c84fd38ccbc2ce",
+  "active": "bfb34b76f2b286ef",
   "lastOpenFiles": [
+    "outreach_material/logistics/3_Executive_Brief_Trends.md",
+    "outreach_material/logistics/2_Operational_Readiness_Audit.md",
     "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
     "design/principles for prints and web.md",
     "design",
-    "outreach_material/logistics/3_Executive_Brief_Trends.md",
     "outreach_material/logistics/The 60-Second Logistics Profitability Audit.md",
     "CONTEXT_template.md",
     "outreach_material/logistics",
