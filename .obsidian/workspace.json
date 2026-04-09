@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/Post Generator.md",
+                "file": "writing/You need an AI critique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Post Generator"
+              "title": "You need an AI critique"
             }
           },
           {
@@ -225,8 +225,10 @@
   },
   "active": "b25e55d1dc517b05",
   "lastOpenFiles": [
-    "product/Positioning.md",
     "prompts/Post Generator.md",
+    "writing/You need an AI critique.md",
+    "writing",
+    "product/Positioning.md",
     "feeds/Trusted info sources.md",
     "projects/snap-reach/Prompts.md",
     "industries/Inside a Last-Mile Delivery Business.md",
@@ -251,7 +253,6 @@
     "outreach_material/logistics/5_Cross_Industry_Success_Framework.md",
     "outreach_material/logistics/pdfs/01_AI_Industry_Map.pdf",
     "prompts/Plans to PRD and Tasks.md",
-    "projects/snap-reach",
     "project_plans/challenge-02-manifest-automation/01-product-strategy.md",
     "prompts/Industry insights to solution.md",
     "prompts/Clone-Web-App.md",
@@ -260,7 +261,6 @@
     "project_plans/challenge-01-ftd-reduction/03-modular-breakdown.md",
     "project_plans/challenge-01-ftd-reduction/02-system-architecture.md",
     "project_plans/challenge-01-ftd-reduction/01-product-strategy.md",
-    "README_COMPETITIVE_RESEARCH.md",
     "outreach_material/logistics/QRs/qr-code-btk.png",
     "outreach_material/logistics/QRs/qr-code-tri.png",
     "outreach_material/logistics/QRs/qr-code-vfs.png"
