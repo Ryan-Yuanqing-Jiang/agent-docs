@@ -10,7 +10,7 @@ It converts markdown, Microsoft Office documents, HTML, or plain text into beaut
 ### The key requirement
 I want this to be an agentic solution: 
 1. To build a simplistic agent, with a simplistic and easy-to-use webUI wrapped around it so that I can share with my linkedin audience and they will want to try this without accessing their own agent.
-2. The application should be oriented around the agent and the skill (with all the files and references it comes with), with a layer of UX to orchestrate the UX and flow.
+2. The application should be **oriented around the agent which will directly use the pdf skill**, with a layer of UX to orchestrate the UX and flow.
 
 Here's a list of requirements and UX flows that I want to add, leverage the existing skill for references and functionalities:
 1. A simplistic UI, fast, responsive.
@@ -26,12 +26,13 @@ Here's a list of requirements and UX flows that I want to add, leverage the exis
 6. Users can give feedback to alter the design, which will trigger regeneration and preview.
 
 Other non-functional requirements:
-- Download and use the skill where possible. 
+- Download and make sure the agent will directly use the pdf skill.
 - Make sure the agent's runtime environment has all the dependencies that it needs to run the skill.
 - Write great system prompts to make sure the agent uses the skill efficiently, works well with the UI and unexpected but valid user instructions, to deliver the final result.
 - Keep it simple. The UI simple, clean, accessibly, the system clean, simple, easy to navigate.
 - Use https://github.com/huggingface/smolagents for agent framework when building the agent.
-- I will use OpenRouter API for this, keep it safe and add it as an env.
+- I will use OpenRouter API for this, keep it safe and add it as an env. Use `minimax/minimax-m2.7`
 - The UI should be intuitively designed, with instructions so users don't have to learn and can use it straight away.
 - Use sub-agents to research the skill and the agent framework to have a thorough understanding without blowing your context window.
 - I want to be able to run the app with 1 command using `docker-compose` (instead of a series of complex commands).
+- Once the work is done, spin up sub agents to use ONE of the examples of input and output from the skill's repo, and make sure the app is running without errors, and the performance an rendering matches the design of the example. Fix all errors before you finish. 
