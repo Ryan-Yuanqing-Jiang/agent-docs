@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/content_creator/SKILL.md",
+                "file": "skills/pain-point-to-prd/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -225,8 +225,13 @@
   },
   "active": "b25e55d1dc517b05",
   "lastOpenFiles": [
-    "skills/content_creator/references/writing-frameworks.md",
+    "prompts/Plans to PRD and Tasks.md",
+    "skills/pain-point-to-prd/SKILL.md",
+    "skills/pain-point-to-prd",
     "skills/content_creator/SKILL.md",
+    "writing/ai-critique-content-all.md",
+    "skills/Task-breakdown.md",
+    "skills/content_creator/references/writing-frameworks.md",
     "skills/content_creator/references",
     "skills/PRD_Gen/PRD Generator.md",
     "skills/content_creator",
@@ -253,14 +258,9 @@
     "ideas",
     "projects/outreach/Outreach notes.md",
     "projects/linkedin",
-    "projects/outreach",
     "outreach_material/logistics/Ryse Consultancy Intro.md",
     "outreach_material/logistics/5_Cross_Industry_Success_Framework.md",
-    "prompts/Plans to PRD and Tasks.md",
     "project_plans/challenge-02-manifest-automation/01-product-strategy.md",
-    "prompts/Industry insights to solution.md",
-    "prompts/Clone-Web-App.md",
-    "project_plans/challenge-03-operational-dashboard/01-product-strategy.md",
     "outreach_material/logistics/QRs/qr-code-btk.png",
     "outreach_material/logistics/QRs/qr-code-tri.png",
     "outreach_material/logistics/QRs/qr-code-vfs.png"
